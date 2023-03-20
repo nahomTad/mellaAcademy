@@ -1,0 +1,14 @@
+asgiref==3.6.0
+dj-database-url==1.2.0
+Django==3.2.18
+django-on-heroku==1.1.2
+django-phone-field==1.8.1
+django-phonenumber-field==7.0.2
+ez-setup==0.9
+gunicorn==20.1.0
+psycopg2-binary==2.9.5
+python-decouple==3.8
+pytz==2022.7.1
+sqlparse==0.4.3
+typing-extensions==4.5.0
+whitenoise==6.4.0
